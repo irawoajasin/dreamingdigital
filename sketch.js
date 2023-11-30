@@ -8,7 +8,7 @@ let objects = [
   'a comment section',
   'a like button',
   'a user profile',
-  'a photo carosel',
+  'a photo carousel',
   'a text messager',
   'an alarm clock',
   'a contact list',
